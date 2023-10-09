@@ -14,9 +14,8 @@ Available in: <Premium plan="Botfront Cloud" />  <Premium plan="Botfront Enterpr
 
 # Forms, slot filling, and business logic
 
-<Important type="tip" title="In-depth tutorial available">
-<a href="/blog/slot-filling-and-conversational-forms-part-1-getting-started">An in-depth step-by-step tutorial is available here</a>. We recommend starting there and use this documentation article as a reference.
-</Important>
+[An in-depth step-by-step tutorial is available here.](/guide/rasa/stories/getting_started.md) We recommend starting there and use this documentation article as a reference.
+
 
 Stories are great to model conversation flows but they lack essential features to implement strong and enforceable business logic.
 
@@ -63,7 +62,7 @@ To add a slot, click **+** icon at the bottom of the node, choose the slot where
 
 
 Note that when you create new slots from this interface they will be _unfeaturized_.
-If you need to fill a featurized slot (e.g. _categorical_, _boolean_,...), you must [create it from the slots menu](/docs/rasa/conversation-context/#from-entities) and choose the _Or use an existing one_ option.
+If you need to fill a featurized slot (e.g. _categorical_, _boolean_,...), you must [create it from the slots menu](/guide/rasa/stories/conversation_context.md#from-entities) and choose the _Or use an existing one_ option.
 
 In the following video we create a boolean _allergies_ slot and use it in our form.
 
@@ -90,7 +89,7 @@ Click on the question to open the slot panel, and in the **Extraction** tab,
 choose _Get the slot **from the entity**_ and select the entity you want to map to this slot.
 
 In the example below, instead of filling the slot with the whole user response, we just extract the _email_ entity.
-Because Duckling follows a pattern matching approach, well formed email addresses are guaranteed to be extracted. See [here how to configure your NLU pipeline with Duckling](/docs/rasa/nlu/#extracting-number-dates-and-other-structured-entities).
+Because Duckling follows a pattern matching approach, well formed email addresses are guaranteed to be extracted. See [here how to configure your NLU pipeline with Duckling](/НЕТ_РАЗДЕЛА).
 
 By doing this, you ensure that your assistant will store a valid email address when users respond something like _"my email address is **james@bond.com**"_
 
@@ -99,9 +98,7 @@ By doing this, you ensure that your assistant will store a valid email address w
   Your browser does not support the video tag.
 </video>
 
-<Important type="tip">
-  <a href="/docs/rasa/nlu/#extracting-number-dates-and-other-structured-entities">Use Duckling</a> to extract structured entities such as <b>numbers</b>, <b>dates</b>, <b>email addresses</b>, <b>urls</b>, <b>amounts of money</b> and many more.
-</Important>
+[Use Duckling](/НЕТ_РАЗДЕЛА) to extract structured entities such as <b>numbers</b>, <b>dates</b>, <b>email addresses</b>, <b>urls</b>, <b>amounts of money</b> and many more.
 
 #### Mapping a slot conditionnally on an intent
 
@@ -260,7 +257,7 @@ You will see how to do that in the next section.
 
 ### Handling digressions
 
-The recommended approach is to use branches and links to handle digressions. Please check our [in-depth tutorial](/blog/slot-filling-and-conversational-forms-part-1-getting-started) for an extensive example.
+The recommended approach is to use branches and links to handle digressions. Please check our [in-depth tutorial](/guide/rasa/stories/getting_started.md) for an extensive example.
 
 ### Handling contextual questions
 
