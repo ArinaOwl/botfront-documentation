@@ -24,6 +24,8 @@ They want to engage with users browsing both _home insurance_ and _car insurance
 
 You can do that by creating a trigger with browsing history:
 
+[Watch a video](https://drive.google.com/file/d/11kSwGLI4qo3tmFXcVfmFv2ANJ5JbXQOw/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/triggers_browsing_history.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -55,6 +57,8 @@ Protocol, host, and port are always ignored. Which means that if you set `http:/
 **Example use case**: visitors returning several times on the _pricing_ page of a Saas company might be interested in scheduling a demo.
 
 The following video shows how to engage with a user coming on [https://botfront.io/pricing](https://botfront.io/pricing) for the third time, after staying 15 seconds on the page:
+
+[Watch a video](https://drive.google.com/file/d/1bdY5Xt2YChox6ZGuLIJWrExeq3hO8Lgf/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/triggers_returning.m4v" type="video/mp4"/>
