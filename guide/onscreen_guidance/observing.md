@@ -38,6 +38,8 @@ The next step of the tutorial is to highlight the **Mortgage demo** item under *
 
 The first step is to observe page change events. To do this, open the **behaviour** tab in the response menu, and enable **Observe interactions**.
 
+[Watch a video](https://drive.google.com/file/d/1lbUU2qDtiV7dQTIgs1_gp0pUSsNhPIW7/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -50,6 +52,8 @@ We want to wait until the user hovers the **Resources** menu item. To do that we
 - The **selector** of the **Resources** menu (same as [highlight](/guide/onscreen-guidance/highlighting.md))
 - The **event** you want to obvserve: `mouseover`
 - A **callback intent**: when the event occurs, a user payload will be sent to the dialogue engine. The next instruction will be a response to that intent.
+
+[Watch a video](https://drive.google.com/file/d/1mKa7PhADk5lMCzOaVJGkPSGUOW-8PEy1/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions_2.m4v" type="video/mp4"/>
@@ -68,6 +72,8 @@ Now that we have established that when the user hovers the **Resources** menu th
 The following video shows how to add a next instruction and to highlight the **Mortgage demo** item inside **Resources**.
 Additionally, it demonstrates how you can change the style by adding an existing css class.
 
+[Watch a video](https://drive.google.com/file/d/121potFzDlV1zxfd6c61VY48Dalbgrzez/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions_3.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -80,6 +86,8 @@ Additionally, it demonstrates how you can change the style by adding an existing
 Since **Mortgage demo** is a link, the user is going to leave the page when they clicks. Therefore page interactions won't work here: we'll use **page changes**.
 
 The following video shows how we can direct a user to another page:
+
+[Watch a video](https://drive.google.com/file/d/19GzXDWUEZWRmTKkQG90wv_TCumOq_0UD/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions_4.m4v" type="video/mp4"/>
@@ -105,6 +113,9 @@ Let's get into the video in more details:
 ## Observe interaction in a form
 
 In the following video we show how to guide a user through the use of a form field:
+
+[Watch a video](https://drive.google.com/file/d/12sjbWECHCfJc-5hb6p3QocisXys1TbR_/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions_5.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -118,6 +129,9 @@ Let's go into more details:
 4. In the conversation we add a new turn ending with a tutorial completion message.
 
 The result can be seen in the following video:
+
+[Watch a video](https://drive.google.com/file/d/1hVB9GX56-f78J1-dG9860Py6hGjjF9dx/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_observe_interactions_6.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
