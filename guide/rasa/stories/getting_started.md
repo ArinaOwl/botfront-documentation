@@ -81,6 +81,6 @@ As you can see in the video you can access the value of the slots with curly bra
 
 Now that we have explained the two fundamental dialogue authoring building blocks, you can read further on both stories and forms.
 
-The [Conversation Builder](/docs/rasa/conversation-builder/) and [Conversation Context](/docs/rasa/conversation-context/) sections explain in depth how stories and slot work.
+The [Conversation Builder](/guide/rasa/stories/conversation_builder.md) and [Conversation Context](/guide/rasa/stories/conversation_context.md) sections explain in depth how stories and slot work.
 
-The [Forms and Business Logic](/docs/rasa/forms-slot-filling/) section explain forms in depth, including how to orchestrate them in stories.
+The [Forms and Business Logic](/guide/rasa/stories/forms.md) section explain forms in depth, including how to orchestrate them in stories.
