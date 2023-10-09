@@ -25,7 +25,7 @@ This assistance can be delivered in two ways:
 - **On demand**: a tutorial is launched when a users explicitly asks for **assistance**.
 - **Proactively**: a tutorial is offered to **onboard and train** users on new features.
 
-The backbone of Botfront remains conversational: creating tutorials is just about adding visual hooks to [stories](/docs/rasa/conversation-builder/).
+The backbone of Botfront remains conversational: creating tutorials is just about adding visual hooks to [stories](/guide/rasa/stories/conversation_builder.md).
 
 <Important type='info' title="No coding required">
   Like all Botfront features, powerful tutorials can be created from our intuitive conversational interface without coding required.
@@ -50,7 +50,7 @@ You can also onboard users to new features with tutorials that will be proactive
   Your browser does not support the video tag.
 </video>
 
-You can create very flexible conditions to offer a tutorial to a given user with the [proactive conversation features](/docs/proactive-conversations/).
+You can create very flexible conditions to offer a tutorial to a given user with the [proactive conversation features](/guide/proactive_conversations/).
 
 
 
