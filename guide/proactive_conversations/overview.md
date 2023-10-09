@@ -35,6 +35,9 @@ Here are a few examples of such conditions:
 - A user is on a page for a certain amount of time
 
 A simple example is reaching out to visitors returning to the _pricing_ page.
+
+[Watch a video](https://drive.google.com/file/d/1BWsIgOPnPFt-gYOeuEV9_Mjc6azLRru8/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/trigger_intro_returning.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -53,6 +56,9 @@ Other use cases include:
 You can use the utm tags sent by the advertising server to trigger a targetted message.
 
 The following video shows how you can welcome users landing from a particular campaign on Google.
+
+[Watch a video](https://drive.google.com/file/d/1If3q-VTzvoo0kpI1BlI1AXJUtqphlhvd/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/trigger_intro_google_ads.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -62,6 +68,8 @@ The following video shows how you can welcome users landing from a particular ca
 
 You can also use custom tags to welcome users that have clicked a link in an email campaign.
 As shown in the following video, query string parameters (`utm_source`, `utm_campaign`, `first_name`) can be used to determine what message to send, but also to greet the user by their first name.
+
+[Watch a video](https://drive.google.com/file/d/1If3q-VTzvoo0kpI1BlI1AXJUtqphlhvd/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/trigger_intro_email_campaign.m4v" type="video/mp4"/>
