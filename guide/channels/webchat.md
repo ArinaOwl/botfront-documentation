@@ -25,7 +25,7 @@ You will find installation instructions by following the link. It can be install
 
 ## Configure the channel
 
-This channel is configured by default when you run Botfront locally with the [CLI](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/installation/cli.md).
+This channel is configured by default when you run Botfront locally with the [CLI](/guide/installation/cli.md).
 
 1. Go to **Settings -> Credentials**
 2. If you install Botfront on a remote server. set `base_url` to the public url where the Rasa API can be reached.
