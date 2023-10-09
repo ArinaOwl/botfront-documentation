@@ -37,6 +37,8 @@ The backbone of Botfront remains conversational: creating tutorials is just abou
 
 Because Botfront is conversational and comes with an advanced natural language understanding engine, you can easily hook a tutorial to a question and train your assistant to help with hundreds of issues:
 
+[Watch a video](https://drive.google.com/file/d/1BClygePXmP7Q_UhwWbxwyTp_iB4zJnci/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_support.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -45,6 +47,9 @@ Because Botfront is conversational and comes with an advanced natural language u
 ## Onboarding and Training
 
 You can also onboard users to new features with tutorials that will be proactively offered to users
+
+[Watch a video](https://drive.google.com/file/d/1a5XHCF5kS0jrvdkCoU4U9eQKopoOKPxh/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/guiding_proactive.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
