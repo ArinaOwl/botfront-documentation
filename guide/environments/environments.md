@@ -39,7 +39,7 @@ An unpublished story will not be available to your end users when you deploy you
 This allows to selectively deploy stories. For example, some of your stories might not be finished or approved to hit production.
 Or some stories are meant to be published only at certain times when there is a special promotion or a temporary service disruption.
 
-To publish a story, turn the switch on in the story menu:
+To publish a story, turn the switch on in the story menu: [Watch a video](https://drive.google.com/file/d/16Rbnoi5aDuwODPWHggV8Y0Z-7_qMJkgh/view?usp=drive_link)
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/publish_story.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
