@@ -47,6 +47,7 @@ At any time, you can access the Botfront menu to create or run a project by runn
 
 ## Setup your project
 
+[Watch a video](https://drive.google.com/file/d/1okdDJlYryFF4eOXj1SUk8-DA_DVf9wBm/view?usp=drive_link)
 <video autoplay muted loop width="740" controls>
   <source src="../../videos/setup.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
