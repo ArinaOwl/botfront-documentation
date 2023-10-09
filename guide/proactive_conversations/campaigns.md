@@ -20,10 +20,14 @@ Proactive conversations are only available on your website with the Botfront cha
 **Use case 1**: a company runs a Google Ads campaign and wants to engage with visitors coming from that campaign on a landing page.
 
 We can trigger a conversation based the **utm** tags expected in the url:
+
+[Watch a video](https://drive.google.com/file/d/1EWY5ikYXsYLy224oGdx0-wKRMW1zpLDH/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/triggers_ad_campaign.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
+
 When a user clicks on the ad, they will be asked to sign up.
 <br /><br />
 
@@ -33,6 +37,9 @@ Let's assume the first name is merged in the email. The link points to a url suc
 `http://yoursite.com/landing?first_name=James`
 
 Let's create the trigger:
+
+[Watch a video](https://drive.google.com/file/d/1zvHwFK2UaWfLvYIpcSMRoLpOduSg-tJP/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../videos/triggers_email_campaign.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
