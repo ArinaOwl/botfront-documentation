@@ -17,7 +17,7 @@ Available in: <Premium plan="Botfront Cloud" /> <Premium plan="Botfront Enterpri
 
 # Observe user behaviour
 
-In the [previous section](/docs/onscreen-guidance/highlighting) we learned how to highlight elements on the screen.
+In the [previous section](/guide/onscreen_guidance/highlighting.md) we learned how to highlight elements on the screen.
 In this section we'll learn how to observe user behaviour and orchestrate a tutorial.
 
 To add steps to our tutorial we must wait until the user has performed the expected action (or not), and then give them the next instruction.
@@ -29,7 +29,7 @@ There are two categories of events to observe:
 
 ## Observe and act on page interactions
 
-In the [previous section](/docs/onscreen-guidance/highlighting), we hightlighted the **Resources** using the response menu.
+In the [previous section](/guide/onscreen_guidance/highlighting.md), we hightlighted the **Resources** using the response menu.
 
 The next step of the tutorial is to highlight the **Mortgage demo** item under **Resources** once the user hover **Resources**.
 
@@ -47,7 +47,7 @@ The first step is to observe page change events. To do this, open the **behaviou
 
 We want to wait until the user hovers the **Resources** menu item. To do that we must add an a observer with 2 parameters
 
-- The **selector** of the **Resources** menu (same as [highlight](/docs/onscreen-guidance/highlighting))
+- The **selector** of the **Resources** menu (same as [highlight](/guide/onscreen-guidance/highlighting.md))
 - The **event** you want to obvserve: `mouseover`
 - A **callback intent**: when the event occurs, a user payload will be sent to the dialogue engine. The next instruction will be a response to that intent.
 
