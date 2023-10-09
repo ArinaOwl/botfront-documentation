@@ -52,7 +52,7 @@ You can enable the types of conversations used to calculate the **total conversa
 ![](../../images/analytics-cot-types-of-conversations.png)
 
 - Conversations initiated by the user (when the user sends a message or opens a chat widget)
-- Conversations initiated by the assistant (see [proactive conversations](/docs/proactive-conversations/behavioral-triggers))
+- Conversations initiated by the assistant (see [proactive conversations](/guide/proactive_conversations/behavioral.md))
 
 ### Matching conversations
 
@@ -74,9 +74,9 @@ The filtered conversations appear in blue in the chart.
 | Parameter             | What it does |
 | --------------------- | ------------ |
 | **Show total conversations** | Display the total number of conversations of the selected type on the chart. |
-| **User initiated conversations** | Display conversations initiated by a user message (or an starting intent such as the [`initPayload`](/docs/channels/webchat/#page-specific-intro-message) in the chat widget). |
-| **Triggered conversations** | Display conversations [initiated proactively](/docs/proactive-conversations/behavioral-triggers). |
-| **Minimum number of utterances** | Display conversations with at least a certain number of user utterances. Since the first utterance is generally triggered by the channel to display a welcome message (see [`initPayload`](/docs/channels/webchat/#page-specific-intro-message)), it is ignored. Which means the typical `get_started` utterance triggered by the `initPayload` or other channels such as [Facebook Messenger](https://botfront.io/docs/channels/messenger) does not count as a user utterance. |
+| **User initiated conversations** | Display conversations initiated by a user message (or an starting intent such as the [`initPayload`](/guide/channels/webchat.md#page-specific-intro-message) in the chat widget). |
+| **Triggered conversations** | Display conversations [initiated proactively](/guide/proactive_conversations/behavioral.md). |
+| **Minimum number of utterances** | Display conversations with at least a certain number of user utterances. Since the first utterance is generally triggered by the channel to display a welcome message (see [`initPayload`](/guide/channels/webchat.md#page-specific-intro-message)), it is ignored. Which means the typical `get_started` utterance triggered by the `initPayload` or other channels such as [Facebook Messenger](https://botfront.io/docs/channels/messenger) does not count as a user utterance. |
 | **Filter conversation events** | Display conversations including or excluding a set of intents and actions. |
 
 ## Conversation duration
@@ -93,7 +93,7 @@ This card displays the number of times a user interacted with the chatbot during
 
 ## Top intents
 
-This card displays the number of times an intent was used in the selected date range. Intents sent by a smart trigger (see [proactive conversations](/docs/proactive-conversations/behavioral-triggers)) are excluded from this card.
+This card displays the number of times an intent was used in the selected date range. Intents sent by a smart trigger (see [proactive conversations](/guide/proactive_conversations/behavioral.md)) are excluded from this card.
 
 ![](../../images/analytics-top-intents.png)
 
@@ -105,7 +105,7 @@ This card displays the number of times an intent was used in the selected date r
 
 ## Top triggers
 
-This card displays the number of times a story with a smart trigger (see [proactive conversations](/docs/proactive-conversations/behavioral-triggers)) was activated by that trigger in the selected date range.
+This card displays the number of times a story with a smart trigger (see [proactive conversations](/guide/proactive_conversations/behavioral.md)) was activated by that trigger in the selected date range.
 
 ![](../../images/analytics-top-triggers.png)
 
