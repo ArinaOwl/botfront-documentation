@@ -19,8 +19,8 @@ Botfront uses a [fork of Rasa](https://github.com/botfront/rasa-for-botfront) cu
 
 We currently provide two channels
 
-- [Chat widget on your website](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/channels/webchat.md)
-- [Facebook Messenger](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/channels/messenger.md)
+- [Chat widget on your website](/guide/channels/webchat.md)
+- [Facebook Messenger](/guide/channels/messenger.md)
 
 #### Implementing other channels:
 
@@ -37,7 +37,7 @@ The `language` will be added to the message metadata and Botfront will do the re
 
 <Important title="Using your channel">
 
-See the [Extending Rasa](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/developers-guide/extending-rasa.md) section to see how to add this channel to your current project.
+See the [Extending Rasa](/guide/developers-guide/extending-rasa.md) section to see how to add this channel to your current project.
 
 </Important>
 
@@ -47,7 +47,7 @@ Then [ALL Rasa channels](https://rasa.com/docs/rasa/user-guide/messaging-and-voi
 
 <Important type="tip">
 
-For [your website](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/channels/webchat.md) and [Facebook Messenger](https://github.com/ArinaOwl/botfront-documentation/blob/mdx_to_md/guide/channels/messenger.md), we still recommend using our channels are they support Botfront specific features
+For [your website](/guide/channels/webchat.md) and [Facebook Messenger](/guide/channels/messenger.md), we still recommend using our channels are they support Botfront specific features
 
 </Important>
 
