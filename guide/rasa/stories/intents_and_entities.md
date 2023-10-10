@@ -53,6 +53,8 @@ You can do this by tagging entities in the user utterances you provide as exampl
 
 In the example below, a user wants to buy a shirt and want to specify a color:
 
+[Watch a video](https://drive.google.com/file/d/1Nt4ORprKtbsPJX9H8ok4BIuj3EMH_AcU/view?usp=sharing)
+
 <video autoplay muted loop width='100%' controls>
     <source
         src='../../../videos/conversation_quickstart9.m4v'
@@ -62,6 +64,8 @@ In the example below, a user wants to buy a shirt and want to specify a color:
 </video>
 
 Again, to boost the accuracy of your assistant, you want to add several examples of utterances with that entities.
+
+[Watch a video](https://drive.google.com/file/d/1j6Ql4NXhZanKM-lwyS676MTeRuaF26uN/view?usp=sharing)
 
 <video autoplay muted loop width='100%' controls>
     <source
@@ -104,6 +108,8 @@ Here is an example of duckling configuration:
 ```
 
 You need to set this configuration in your NLU pipeline, as shown in the following video:
+
+[Watch a video](https://drive.google.com/file/d/1aEtvugxMglGxbO78VeKijgEjMx-RsXhr/view?usp=sharing)
 
 <video autoplay muted loop width='100%' controls>
     <source
@@ -225,6 +231,8 @@ You will get this:
 ```
 
 Note that you can use the API tab to explore the `JSON` response of a NLU request:
+
+[Watch a video](https://drive.google.com/file/d/10YH-MH5Fe-ilgQsRxaWsS-bW45y6a8Ht/view?usp=sharing)
 
 <video autoplay muted loop width='100%' controls>
     <source
