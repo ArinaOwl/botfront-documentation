@@ -22,6 +22,8 @@ Botfront allows you to create visually all sort of rich responses for your Rasa 
 Text response are supported by all channels.
 You can split text responses into separate messages by typing `enter`.
 
+[Watch a video](https://drive.google.com/file/d/1nNEJHLy3QO7r2OGClNhw82PBL_ey_P61/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_text.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -54,6 +56,8 @@ The main difference between buttons and quick replies is that quick replies disa
 **Quick replies** are used when the underlying payload (intents and entities) is contextual, for example with _yes_ or _no_ responses.
 _Yes_ and _No_ are generally direct answers to the previous bot utterance. Therefore there is no reason to keep the options available in the conversation once the user has responded.
 
+[Watch a video](https://drive.google.com/file/d/1IDDZV26ixVgwCcCc2AGQCnPiMy22DAGB/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_quick_replies.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -63,6 +67,8 @@ _Yes_ and _No_ are generally direct answers to the previous bot utterance. There
 **Buttons**, however will persist on the screen after the user has selected an answer. Buttons are used when the proposed options remain available later in the conversation.
 
 Simply toggle the **pin** button to make your response a quick reply or a button.
+
+[Watch a video](https://drive.google.com/file/d/1525W9rsRjsPt8JAKxKSyS3zbyUWQ7EfM/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_buttons.m4v" type="video/mp4"/>
@@ -91,6 +97,8 @@ You can attach two types of actions:
 
 To add an image, simply select the image type. With Botfront Open Source, you must add the link to your image. With Botfront Cloud and Enterprise, you can directly upload an image.
 
+[Watch a video](https://drive.google.com/file/d/188d5zvETIfzSpIUf7pgfmEVSl108bh1s/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_image.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -108,6 +116,8 @@ To add an image, simply select the image type. With Botfront Open Source, you mu
 
 To create a carousel, select the carousel response type from the options, the start adding your cards.
 A carousel is made of cards, and each card contains a **title**, and **description**, an **image**, and up to 3 **buttons**.
+
+[Watch a video](https://drive.google.com/file/d/1Xyj_XVWgL144507lRaKkAFjMcadAVmCh/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_carousels.m4v" type="video/mp4"/>
@@ -133,6 +143,8 @@ Click the the ellipsis button and add your variations as follows.
 
 Variations are supported for all channels and response types.
 
+[Watch a video](https://drive.google.com/file/d/1bmn55TIIBbbT0XO0TmjttaqvAG00NLgA/view?usp=sharing)
+
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_variations.m4v" type="video/mp4"/>
   Your browser does not support the video tag.
@@ -141,6 +153,8 @@ Variations are supported for all channels and response types.
 ## Advanced response configuration
 
 The Rasa Webchat widget gives you some flexibility to further configure your responses. Click on the ellipsis menu and select the **Behaviour** tab.
+
+[Watch a video](https://drive.google.com/file/d/1BgRFKGd_Wn2eZHDORFM767BrKyDM3jbi/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_links_and_more.m4v" type="video/mp4"/>
@@ -158,6 +172,8 @@ When using the Rasa Webchat you can add further configuration to your responses.
 ## Renaming responses
 
 When you create a response, Botfront generates a random response name. If you need more human readable names you can rename them as follows
+
+[Watch a video](https://drive.google.com/file/d/19gdIN1_f_UhnZ0oUF2z54A2hRWhRc51d/view?usp=sharing)
 
 <video autoplay muted loop width="100%" controls>
   <source src="../../../videos/response_renaming.m4v" type="video/mp4"/>
